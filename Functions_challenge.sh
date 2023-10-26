@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Script Name:                  Hello World
+# Script Name:                  Functions
 # Author:                       Festus Oguhebe Jr. 
-# Date of latest revision:      10/24/2023
+# Date of latest revision:      10/25/2023
 # Purpose:                      Ops201 Challenge 2 - Functions
 
 # Declaration of variables
