@@ -9,12 +9,13 @@
 
 
 # Declaration of function
-loginhist (g) {
+loginhist () {
     last
     echo "This is the login history"
 }
 # Main
 
+loginhist
 loginhist
 loginhist
 
