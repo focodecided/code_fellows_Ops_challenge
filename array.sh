@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script Name:                  Functions
+# Script Name:                  Using Arrays with Functions
 # Author:                       Festus Oguhebe Jr. 
 # Date of latest revision:      10/26/2023
 # Purpose:                      To create and maintain string of data in memory using array 
