@@ -23,3 +23,5 @@ Get-WinEvent -LogName System -MaxEvents 20 | Format-Table -AutoSize
 ### 5. Print to the screen all sources of the 500 most recent entries in the System event log, showing the entire text:
 
 Get-WinEvent -LogName System -MaxEvents 500 | Select-Object -ExpandProperty ProviderName
+
+### Used chatgpt for assistance
