@@ -25,3 +25,5 @@ Get-WinEvent -LogName System -MaxEvents 20 | Format-Table -AutoSize
 Get-WinEvent -LogName System -MaxEvents 500 | Select-Object -ExpandProperty ProviderName
 
 ### Used chatgpt for assistance
+
+
